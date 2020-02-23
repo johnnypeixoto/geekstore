@@ -1,0 +1,66 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Camisa RPD Resident Evil",
+      "price": 80.9,
+      "image": "https://store.capcom-europe.com/media/image/3c/80/87/RESIDENT_EVIL_2_T-SHIRT_RPD_0014_600x600.png"
+    },
+    {
+      "id": 2,
+      "title": "Camisa Mega Man FLAT",
+      "price": 80.9,
+      "image": "https://store.capcom-europe.com/media/image/5b/99/7c/MEGA_MAN_T-SHIRT_FLAT_MAN_0006_600x600.png"
+    },
+    {
+      "id": 3,
+      "title": "Camisa Devil May Cry",
+      "price": 80.9,
+      "image": "https://store.capcom-europe.com/media/image/90/53/87/DEVIL_MAY_CRY_SHIRT_DMC_LOGO_0006_600x600.png"
+    },
+    {
+      "id": 5,
+      "title": "Camisa Umbrella Corporation",
+      "price": 80.9,
+      "image": "https://store.capcom-europe.com/media/image/e2/99/9c/RESIDENT_EVIL_T-SHIRT_UMBRELLA_LOGO_0006_600x600.png"
+    },
+    {
+      "id": 6,
+      "title": "Camisa manga longa PsChristmas",
+      "price": 90.9,
+      "image": "https://cdn.playstation-gear.com/storage/app/uploads/public/5ba/4c4/045/5ba4c40459000631944085.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Camisa manga longo Crash Bandicoot",
+      "price": 110.9,
+      "image": "https://cdn.playstation-gear.com/storage/app/uploads/public/59d/b71/7d9/59db717d92b7c317105464.jpg"
+    }
+  ]
+}
